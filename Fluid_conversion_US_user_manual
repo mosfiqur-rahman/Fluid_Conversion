@@ -1,0 +1,27 @@
+User Manual:-
+
+
+/***************************************************************************************************
+PROGRAM : Fluid_conversion_US.cpp
+PURPOSE : It will convert the value of fluid ounce(s) into other US fluid quantities.
+          For this reason, it will take the value of fluid ounce(s) as input,
+          and will show the output allocating the input value into
+          various units, like- barrels, gallons, quarts, cups, etc.
+Coder : Mosfiqur Rahman (mr986@drexel.edu)
+Last Modified : 19th January, 2016.
+***************************************************************************************************/
+
+
+To run the program, please open the Fluid_conversion_US.cpp file in a compiler that is able to compile any program, which is written in C++. After that, build and run the program. 
+
+A new window will pop-up. It will ask you to enter the numerical value of fluid ounce(s) you have. 
+
+Please, enter a integer number as the input. However, if a decimal number is found as an input, the program will automatically ignore the part after the decimal point. Now, hit the ENTER button.
+
+Then, the program will show you all the converted quantities from fluid ounce(s) in the new window as output. These are barrel(s), gallon(s), quart(s), pint(s), cup(s), gill(s), and tablespoon(s) respectively.
+
+
+
+
+
+
